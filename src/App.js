@@ -1,4 +1,5 @@
 import {useEffect} from 'react'
+import './App.css';
 const API_URL='http://www.omdbapi.com?apikey=272965d2'
 
 function App() {
